@@ -1,0 +1,2 @@
+# SourceCodeDetectionPlatform
+一个集成开源的源代码检测的应用平台。
